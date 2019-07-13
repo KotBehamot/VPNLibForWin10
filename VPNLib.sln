@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetworkLib", "VPNLib\NetworkLib.csproj", "{C6D9B9CE-A291-4CD9-99A4-BBC8AE2B37ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsLibs", "NetLibs\WinFormsLibs.csproj", "{C0F70A7A-D92C-46A1-9C97-29857D17355F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C6D9B9CE-A291-4CD9-99A4-BBC8AE2B37ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6D9B9CE-A291-4CD9-99A4-BBC8AE2B37ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6D9B9CE-A291-4CD9-99A4-BBC8AE2B37ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0F70A7A-D92C-46A1-9C97-29857D17355F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F70A7A-D92C-46A1-9C97-29857D17355F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F70A7A-D92C-46A1-9C97-29857D17355F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F70A7A-D92C-46A1-9C97-29857D17355F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
